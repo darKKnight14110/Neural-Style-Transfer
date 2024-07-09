@@ -7,4 +7,5 @@ Developed a comprehensive Neural Style Transfer system to create artistic images
 
 ## Results:
 ### 1) Fast NST: <br />![98af66a4-7022-488c-8cc8-c1fa043ff0fc](https://github.com/darKKnight14110/Neural-Style-Transfer/assets/142472592/a8009a1c-9163-4462-9151-9272ed2edbef) <br />
-### 2) VGG- 19 : 
+### 2) VGG- 19 : <br /> ![image](https://github.com/darKKnight14110/Neural-Style-Transfer/assets/142472592/3aa8a275-338e-4895-8d1b-bb43b7c3cb9a)
+
